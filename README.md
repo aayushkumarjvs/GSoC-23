@@ -11,6 +11,8 @@ Turn2-Text (col1) TAB start TAB end
 a) crop audio-file (extracted from videofile) according to start and end of sentence and store them in "audiofiles" folder. 
 b) created 'samples.json' where each line has values from three keys: audiofilepath, text, duration Output segments.txt Folder with audiofiles samples.json
 3. Used these samples.json in an End-to-End Automatic Speech Recognition (E2E ASR) software for Tagging/Transcribe events in Audio/Video segments.
+![e2e-asr](https://github.com/aayushkumarjvs/GSoC-23/assets/26484401/1705d0e8-b433-4c3d-976e-db9d933607bd)
+
 
 # Sample Data Files
 1. https://umbc.box.com/s/877gtorpwixwallu9fymiju8efo7954x
