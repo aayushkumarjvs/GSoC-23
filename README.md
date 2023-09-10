@@ -11,3 +11,11 @@ Turn2-Text (col1) TAB start TAB end
 a) crop audio-file (extracted from videofile) according to start and end of sentence and store them in "audiofiles" folder. 
 b) created 'samples.json' where each line has values from three keys: audiofilepath, text, duration Output segments.txt Folder with audiofiles samples.json
 3. Used these samples.json in an End-to-End Automatic Speech Recognition (E2E ASR) software for Tagging/Transcribe events in Audio/Video segments.
+
+# Sample Data Files
+1. https://umbc.box.com/s/877gtorpwixwallu9fymiju8efo7954x
+2. https://umbc.box.com/s/u2cx5y3qzgm8qtdng4q71tcb5ickq3z2
+
+# NVIDIA NeMo - E2E ASR 
+Other thing, once you have the manifest files. you can fine-tune a pre-trained E2E ASR for it.
+https://github.com/NVIDIA/NeMo/blob/main/tutorials/asr/ASR_CTC_Language_Finetuning.ipynb 
