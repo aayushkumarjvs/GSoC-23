@@ -18,6 +18,9 @@ b) created 'samples.json' where each line has values from three keys: audiofilep
 1. https://umbc.box.com/s/877gtorpwixwallu9fymiju8efo7954x
 2. https://umbc.box.com/s/u2cx5y3qzgm8qtdng4q71tcb5ickq3z2
 
+# Parse and Split Data
+https://gallo.case.edu/snippet_cache/ 
+
 # NVIDIA NeMo - E2E ASR 
 Other thing, once you have the manifest files. you can fine-tune a pre-trained E2E ASR for it.
 https://github.com/NVIDIA/NeMo/blob/main/tutorials/asr/ASR_CTC_Language_Finetuning.ipynb 
