@@ -13,11 +13,9 @@ b) created 'samples.json' where each line has values from three keys: audiofilep
 3. Used these samples.json in an End-to-End Automatic Speech Recognition (E2E ASR) software for Tagging/Transcribe events in Audio/Video segments.
 ![e2e-asr](https://github.com/aayushkumarjvs/GSoC-23/assets/26484401/1705d0e8-b433-4c3d-976e-db9d933607bd)
 
-
 # Sample Data Files
-1. https://umbc.box.com/s/877gtorpwixwallu9fymiju8efo7954x
-2. https://umbc.box.com/s/u2cx5y3qzgm8qtdng4q71tcb5ickq3z2
-3. https://umbc.box.com/s/zccbeygsp3imrdmuohe3tqndd3wnck9n
+Can't be shared due to proprietary data purposes
+
 # Parse and Split Data
 https://gallo.case.edu/snippet_cache/ 
 
